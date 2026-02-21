@@ -1,14 +1,28 @@
 # Hermetic Ormus
 
+<p align="center">
+  <img src="https://ormus.solutions/mascot/journey_structure_to_passion.gif" alt="Structure to Passion — cube, braces, terminal, flame, heart" width="256" style="image-rendering: pixelated;" />
+</p>
+
+<p align="center">
+  <strong>Structure to Passion</strong> — discipline becomes code, code becomes fire, fire becomes heart
+</p>
+
+---
+
 **Gold Hat Technologist | Sacred Technology Builder | Student of Hermetica**
 
 > *"Technology that empowers, never exploits."*
+
+[ormus.solutions](https://ormus.solutions) | [@dbodartm](https://x.com/dbodartm) | [LinkedIn](https://linkedin.com/in/hermeticormus)
 
 ---
 
 ## Featured Projects
 
 ### AI & Development Tools
+
+<img src="https://ormus.solutions/mascot/pixellab_liquid_to_terminal.gif" alt="Terminal" width="48" style="image-rendering: pixelated;" align="right" />
 
 | Project | Description | Stars |
 |---------|-------------|-------|
@@ -25,6 +39,8 @@
 | **[hermetic-academy](https://github.com/HermeticOrmus/hermetic-academy)** | Educational platform for Hermetic philosophy and sacred technology principles. | ![Stars](https://img.shields.io/github/stars/HermeticOrmus/hermetic-academy?style=flat-square) |
 
 ### Claude Code Extensions
+
+<img src="https://ormus.solutions/mascot/pixellab_liquid_to_braces.gif" alt="Braces" width="48" style="image-rendering: pixelated;" align="right" />
 
 | Project | Description |
 |---------|-------------|
@@ -59,25 +75,17 @@ In a world of black hats, white hats, and gray hats, I choose a different path.
 
 **Languages**: Python, TypeScript, JavaScript, SQL
 **AI/ML**: Claude, LangChain, RAG systems, Prompt Engineering
-**Frontend**: React, Next.js, Tailwind CSS
+**Frontend**: Vue/Nuxt, React, Next.js, Tailwind CSS
 **Backend**: FastAPI, Supabase, PostgreSQL
 **DevOps**: Docker, GitHub Actions, Vercel
 
 ---
 
-## Current Focus
+## Liquid Gold
 
-- Building AI tools that teach while they help
-- Developing the meta-prompting framework for systematic prompt improvement
-- Creating open-source resources for the Claude Code community
-- Applying Hermetic principles to modern software development
+Not a mascot. A material. 73+ pixel art animations of alchemical transformation.
 
----
-
-## Connect
-
-- **GitHub Discussions**: Open on all repositories
-- **Projects**: Browse my [repositories](https://github.com/HermeticOrmus?tab=repositories)
+[Explore the gallery](https://ormus.solutions/liquid-gold)
 
 ---
 
