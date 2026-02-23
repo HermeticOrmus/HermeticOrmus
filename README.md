@@ -24,6 +24,7 @@ Currently: Pixel art generation pipeline, social automation, Claude Code ecosyst
 
 | Project | What it does |
 |---------|-------------|
+| **[pixel-art-pipeline](https://github.com/HermeticOrmus/pixel-art-pipeline)** | Batch pixel art animation generator — YAML config to GIFs via PixelLab API |
 | **[LibreUIUX-Claude-Code](https://github.com/HermeticOrmus/LibreUIUX-Claude-Code)** | Complete UI/UX system for Claude Code — 67 agents, design vocabulary, tested prompts |
 | **[meta-prompting-framework](https://github.com/HermeticOrmus/meta-prompting-framework)** | Category theory-based prompt improvement — 82%+ quality gains |
 | **[claude-code-guide](https://github.com/HermeticOrmus/claude-code-guide)** | Complete guide to Claude Code as a system-wide assistant |
@@ -66,7 +67,7 @@ Currently: Pixel art generation pipeline, social automation, Claude Code ecosyst
 
 <img src="https://ormus.solutions/mascot/pixellab_liquid_to_caduceus.gif" alt="Caduceus" width="64" style="image-rendering: pixelated;" align="left" />
 
-94 pixel art animations generated via PixelLab API. Not a mascot — a material. Each GIF is a 16-frame alchemical transformation from liquid gold into a symbol.
+76+ pixel art animations generated via PixelLab API. Built with [pixel-art-pipeline](https://github.com/HermeticOrmus/pixel-art-pipeline). Not a mascot — a material. Each GIF is a 16-frame alchemical transformation from liquid gold into a symbol.
 
 <br clear="left" />
 
