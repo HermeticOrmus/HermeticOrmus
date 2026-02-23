@@ -1,98 +1,76 @@
 # Hermetic Ormus
 
 <p align="center">
-  <img src="https://ormus.solutions/mascot/journey_structure_to_passion.gif" alt="Structure to Passion — cube, braces, terminal, flame, heart" width="256" style="image-rendering: pixelated;" />
+  <img src="https://ormus.solutions/mascot/journey_napkin_to_production.gif" alt="Napkin to Production — sketch, braces, terminal, star" width="256" style="image-rendering: pixelated;" />
 </p>
 
 <p align="center">
-  <strong>Structure to Passion</strong> — discipline becomes code, code becomes fire, fire becomes heart
+  <strong>Napkin to Production</strong> — from idea sketch to deployed code
 </p>
 
 ---
 
-**Gold Hat Technologist | Sacred Technology Builder | Student of Hermetica**
+Builder. Dev tools, LLM systems, whatever needs to exist.
 
-> *"Technology that empowers, never exploits."*
+Currently: Pixel art generation pipeline, social automation, Claude Code ecosystem tools.
 
-[ormus.solutions](https://ormus.solutions) | [@dbodartm](https://x.com/dbodartm) | [LinkedIn](https://linkedin.com/in/hermeticormus)
+[ormus.solutions](https://ormus.solutions) · [@dbodartm](https://x.com/dbodartm) · [LinkedIn](https://linkedin.com/in/hermeticormus)
 
 ---
 
-## Featured Projects
+## Featured
 
-### AI & Development Tools
+### AI & Developer Tools
 
-<img src="https://ormus.solutions/mascot/pixellab_liquid_to_terminal.gif" alt="Terminal" width="48" style="image-rendering: pixelated;" align="right" />
+| Project | What it does |
+|---------|-------------|
+| **[LibreUIUX-Claude-Code](https://github.com/HermeticOrmus/LibreUIUX-Claude-Code)** | Complete UI/UX system for Claude Code — 67 agents, design vocabulary, tested prompts |
+| **[meta-prompting-framework](https://github.com/HermeticOrmus/meta-prompting-framework)** | Category theory-based prompt improvement — 82%+ quality gains |
+| **[claude-code-guide](https://github.com/HermeticOrmus/claude-code-guide)** | Complete guide to Claude Code as a system-wide assistant |
+| **[claude-code-skills](https://github.com/HermeticOrmus/claude-code-skills)** | Reusable skills and frameworks for Claude Code CLI |
+| **[google-docs-drive-toolkit](https://github.com/HermeticOrmus/google-docs-drive-toolkit)** | Python library + CLI for Google Docs & Drive automation |
 
-| Project | Description | Stars |
-|---------|-------------|-------|
-| **[LibreUIUX-Claude-Code](https://github.com/HermeticOrmus/LibreUIUX-Claude-Code)** | Complete UI/UX development system for Claude Code. 67 specialized agents, design vocabulary, tested prompts. | ![Stars](https://img.shields.io/github/stars/HermeticOrmus/LibreUIUX-Claude-Code?style=flat-square) |
-| **[meta-prompting-framework](https://github.com/HermeticOrmus/meta-prompting-framework)** | Category theory-based recursive prompt improvement. Transform outputs from good to great systematically. | ![Stars](https://img.shields.io/github/stars/HermeticOrmus/meta-prompting-framework?style=flat-square) |
-| **[casa-learning](https://github.com/HermeticOrmus/casa-learning)** | CASA (Computer-Aided Skills Acquisition) system for accelerated learning via AI tutoring. | ![Stars](https://img.shields.io/github/stars/HermeticOrmus/casa-learning?style=flat-square) |
+### Learning & Education
+
+| Project | What it does |
+|---------|-------------|
+| **[casa-learning](https://github.com/HermeticOrmus/casa-learning)** | AI-powered learning framework — Capture, Anchor, Structure, Absorb |
+| **[hitchhikers-guide-to-vibe-engineering](https://github.com/HermeticOrmus/hitchhikers-guide-to-vibe-engineering)** | DON'T PANIC — a practical guide to AI-assisted development |
+| **[SkillGardenHub](https://github.com/HermeticOrmus/SkillGardenHub)** | AI credentialing with RuneScape-inspired mastery curves |
 
 ### Applications
 
-| Project | Description | Stars |
-|---------|-------------|-------|
-| **[turpi-ai](https://github.com/HermeticOrmus/turpi-ai)** | AI-powered tourism platform for Panama. Spanish market focus. | ![Stars](https://img.shields.io/github/stars/HermeticOrmus/turpi-ai?style=flat-square) |
-| **[FloraHeritage](https://github.com/HermeticOrmus/FloraHeritage)** | Plant heritage and biodiversity tracking application. | ![Stars](https://img.shields.io/github/stars/HermeticOrmus/FloraHeritage?style=flat-square) |
-| **[hermetic-academy](https://github.com/HermeticOrmus/hermetic-academy)** | Educational platform for Hermetic philosophy and sacred technology principles. | ![Stars](https://img.shields.io/github/stars/HermeticOrmus/hermetic-academy?style=flat-square) |
-
-### Claude Code Extensions
-
-<img src="https://ormus.solutions/mascot/pixellab_liquid_to_braces.gif" alt="Braces" width="48" style="image-rendering: pixelated;" align="right" />
-
-| Project | Description |
+| Project | What it does |
 |---------|-------------|
-| [hermetic-agents-pack](https://github.com/HermeticOrmus/hermetic-agents-pack) | 39 AI agents for rapid application development |
-| [workflow-automation-pack](https://github.com/HermeticOrmus/workflow-automation-pack) | 8 production-ready slash commands |
-| [tesseract-knowledge-system](https://github.com/HermeticOrmus/tesseract-knowledge-system) | Self-updating knowledge base for Claude Code |
-| [claude-code-skills](https://github.com/HermeticOrmus/claude-code-skills) | Reusable skills for Claude Code CLI |
+| **[turpi-ai](https://github.com/HermeticOrmus/turpi-ai)** | Practical AI tools directory for Spanish speakers — 45+ tools |
+| **[bazaar-companion](https://github.com/HermeticOrmus/bazaar-companion)** | Community tracker for The Bazaar card game |
+| **[hermetic-academy](https://github.com/HermeticOrmus/hermetic-academy)** | Interactive webapp teaching the 7 Hermetic Principles |
 
 ---
 
-## The Gold Hat Philosophy
+## Stack
 
-In a world of black hats, white hats, and gray hats, I choose a different path.
-
-**Gold Hats** bring divinity to technology:
-- **Sacred Technology**: Tools that serve human flourishing
-- **Conscious Development**: Every line of code with intention
-- **Healing Systems**: Technology that empowers, never exploits
-
-### Core Principles
-
-| Principle | Application |
-|-----------|-------------|
-| **Mentalism** | Clarify intention before coding |
-| **Correspondence** | Architecture reflects values |
-| **Vibration** | Ship imperfect; iterate rapidly |
-| **Cause & Effect** | Every feature: empower or extract? |
-
----
-
-## Tech Stack
-
-**Languages**: Python, TypeScript, JavaScript, SQL
-**AI/ML**: Claude, LangChain, RAG systems, Prompt Engineering
-**Frontend**: Vue/Nuxt, React, Next.js, Tailwind CSS
-**Backend**: FastAPI, Supabase, PostgreSQL
-**DevOps**: Docker, GitHub Actions, Vercel
+![Python](https://img.shields.io/badge/Python-aa8142?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-aa8142?style=flat-square&logo=typescript&logoColor=white)
+![Vue/Nuxt](https://img.shields.io/badge/Vue%2FNuxt-aa8142?style=flat-square&logo=vuedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-aa8142?style=flat-square&logo=fastapi&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-aa8142?style=flat-square&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-aa8142?style=flat-square&logo=supabase&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-aa8142?style=flat-square&logo=anthropic&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-aa8142?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-aa8142?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
 ## Liquid Gold
 
-Not a mascot. A material. 73+ pixel art animations of alchemical transformation.
+<img src="https://ormus.solutions/mascot/pixellab_liquid_to_caduceus.gif" alt="Caduceus" width="64" style="image-rendering: pixelated;" align="left" />
 
-[Explore the gallery](https://ormus.solutions/liquid-gold)
+94 pixel art animations generated via PixelLab API. Not a mascot — a material. Each GIF is a 16-frame alchemical transformation from liquid gold into a symbol.
+
+<br clear="left" />
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HermeticOrmus&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
+> *Technology that empowers, never exploits.*
 
-<p align="center">
-  <i>"As above, so below. As the code, so the consciousness."</i>
-</p>
