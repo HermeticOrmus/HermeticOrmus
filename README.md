@@ -1,77 +1,40 @@
 # Hermetic Ormus
 
-<p align="center">
-  <img src="https://ormus.solutions/mascot/journey_napkin_to_production.gif" alt="Napkin to Production — sketch, braces, terminal, star" width="256" style="image-rendering: pixelated;" />
-</p>
+Learning Linux, terminal workflows, and development since October 2025.
+Building tools for personal productivity with Claude Code.
 
-<p align="center">
-  <strong>Napkin to Production</strong> — from idea sketch to deployed code
-</p>
+[ormus.solutions](https://ormus.solutions) -- [@dbodartm](https://x.com/dbodartm) -- [LinkedIn](https://linkedin.com/in/hermeticormus)
 
 ---
 
-Builder. Dev tools, LLM systems, whatever needs to exist.
+## Active Projects
 
-Currently: Pixel art generation pipeline, social automation, Claude Code ecosystem tools.
-
-[ormus.solutions](https://ormus.solutions) · [@dbodartm](https://x.com/dbodartm) · [LinkedIn](https://linkedin.com/in/hermeticormus)
-
----
-
-## Featured
-
-### AI & Developer Tools
-
-| Project | What it does |
+| Project | Description |
 |---------|-------------|
-| **[pixel-art-pipeline](https://github.com/HermeticOrmus/pixel-art-pipeline)** | Batch pixel art animation generator — YAML config to GIFs via PixelLab API |
-| **[LibreUIUX-Claude-Code](https://github.com/HermeticOrmus/LibreUIUX-Claude-Code)** | Complete UI/UX system for Claude Code — 67 agents, design vocabulary, tested prompts |
-| **[meta-prompting-framework](https://github.com/HermeticOrmus/meta-prompting-framework)** | Category theory-based prompt improvement — 82%+ quality gains |
-| **[claude-code-guide](https://github.com/HermeticOrmus/claude-code-guide)** | Complete guide to Claude Code as a system-wide assistant |
-| **[claude-code-skills](https://github.com/HermeticOrmus/claude-code-skills)** | Reusable skills and frameworks for Claude Code CLI |
-| **[google-docs-drive-toolkit](https://github.com/HermeticOrmus/google-docs-drive-toolkit)** | Python library + CLI for Google Docs & Drive automation |
+| [FloreSerLife](https://github.com/HermeticOrmus/FloreSerLife) | Garden management and wellness platform |
+| [PandaCompanion](https://github.com/HermeticOrmus/PandaCompanion) | Wellness companion app |
+| [lectio-divina](https://github.com/HermeticOrmus/lectio-divina) | Prayer and contemplative reading tool |
 
-### Learning & Education
+## Open-Source Tools
 
-| Project | What it does |
-|---------|-------------|
-| **[casa-learning](https://github.com/HermeticOrmus/casa-learning)** | AI-powered learning framework — Capture, Anchor, Structure, Absorb |
-| **[hitchhikers-guide-to-vibe-engineering](https://github.com/HermeticOrmus/hitchhikers-guide-to-vibe-engineering)** | DON'T PANIC — a practical guide to AI-assisted development |
-| **[SkillGardenHub](https://github.com/HermeticOrmus/SkillGardenHub)** | AI credentialing with RuneScape-inspired mastery curves |
+| Tool | Description |
+|------|-------------|
+| [ormus-recorder](https://github.com/HermeticOrmus/ormus-recorder) | Voice recorder PWA with local Whisper transcription |
+| [ormus-links](https://github.com/HermeticOrmus/ormus-links) | Link intelligence PWA -- save, extract, and organize web content |
+| [zen-proxy](https://github.com/HermeticOrmus/zen-proxy) | Minimal reverse proxy that strips Authorization headers |
+| [invoice-forge](https://github.com/HermeticOrmus/invoice-forge) | Self-hosted invoice editor for freelancers |
+| [claude-maintain](https://github.com/HermeticOrmus/claude-maintain) | Environment maintenance CLI for Claude Code |
 
-### Applications
+## Claude Code Ecosystem
 
-| Project | What it does |
-|---------|-------------|
-| **[turpi-ai](https://github.com/HermeticOrmus/turpi-ai)** | Practical AI tools directory for Spanish speakers — 45+ tools |
-| **[bazaar-companion](https://github.com/HermeticOrmus/bazaar-companion)** | Community tracker for The Bazaar card game |
-| **[hermetic-academy](https://github.com/HermeticOrmus/hermetic-academy)** | Interactive webapp teaching the 7 Hermetic Principles |
+Most of what I build runs on Claude Code. Over time that turned into a system:
 
----
+- [hermetic-claude](https://github.com/HermeticOrmus/hermetic-claude) -- 100+ commands, 50+ agents, multi-repo workflows
+- [claude-code-skills](https://github.com/HermeticOrmus/claude-code-skills) -- 13 published skills, reusable across projects
+- [claude-code-guide](https://github.com/HermeticOrmus/claude-code-guide) -- Complete guide to Claude Code as a system-wide assistant
 
-## Stack
-
-![Python](https://img.shields.io/badge/Python-aa8142?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-aa8142?style=flat-square&logo=typescript&logoColor=white)
-![Vue/Nuxt](https://img.shields.io/badge/Vue%2FNuxt-aa8142?style=flat-square&logo=vuedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-aa8142?style=flat-square&logo=fastapi&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-aa8142?style=flat-square&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-aa8142?style=flat-square&logo=supabase&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_Code-aa8142?style=flat-square&logo=anthropic&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-aa8142?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-aa8142?style=flat-square&logo=vercel&logoColor=white)
+Also published domain-specific skill packs: [DevOps](https://github.com/HermeticOrmus/LibreDevOps-Claude-Code), [FinTech](https://github.com/HermeticOrmus/LibreFinTech-Claude-Code), [GameDev](https://github.com/HermeticOrmus/LibreGameDev-Claude-Code), [MLOps](https://github.com/HermeticOrmus/LibreMLOps-Claude-Code), [Mobile](https://github.com/HermeticOrmus/LibreMobileDev-Claude-Code), [Embedded](https://github.com/HermeticOrmus/LibreEmbed-Claude-Code), [UI/UX](https://github.com/HermeticOrmus/LibreUIUX-Claude-Code).
 
 ---
 
-## Liquid Gold
-
-<img src="https://ormus.solutions/mascot/pixellab_liquid_to_caduceus.gif" alt="Caduceus" width="64" style="image-rendering: pixelated;" align="left" />
-
-76+ pixel art animations generated via PixelLab API. Built with [pixel-art-pipeline](https://github.com/HermeticOrmus/pixel-art-pipeline). Not a mascot — a material. Each GIF is a 16-frame alchemical transformation from liquid gold into a symbol.
-
-<br clear="left" />
-
----
-
-> *Technology that empowers, never exploits.*
-
+> Technology that empowers, never exploits.
