@@ -29,6 +29,15 @@ Domain plugin packs: [UI/UX](https://github.com/HermeticOrmus/LibreUIUX-Claude-C
 | [ormus-explore](https://github.com/HermeticOrmus/ormus-explore) | Token-cheap AST code search |
 | [ormus-links](https://github.com/HermeticOrmus/ormus-links) | Link intelligence PWA |
 
+
+## Grok Libre suite
+
+Grok Build ports of the Libre domain packs (v0 scaffolds under Liquid Gold / Gold Hat):
+
+[UIUX](https://github.com/HermeticOrmus/LibreUIUX-Grok-Build) · [SessionFlow](https://github.com/HermeticOrmus/LibreSessionFlow-Grok-Build) · [GEO](https://github.com/HermeticOrmus/LibreGEO-Grok-Build) · [DevOps](https://github.com/HermeticOrmus/LibreDevOps-Grok-Build) · [SecOps](https://github.com/HermeticOrmus/LibreSecOps-Grok-Build) · [Embed](https://github.com/HermeticOrmus/LibreEmbed-Grok-Build) · [GameDev](https://github.com/HermeticOrmus/LibreGameDev-Grok-Build) · [Copy](https://github.com/HermeticOrmus/LibreCopy-Grok-Build) · [Arch](https://github.com/HermeticOrmus/LibreArch-Grok-Build) · [MLOps](https://github.com/HermeticOrmus/LibreMLOps-Grok-Build) · [Mobile](https://github.com/HermeticOrmus/LibreMobileDev-Grok-Build) · [FinTech](https://github.com/HermeticOrmus/LibreFinTech-Grok-Build) · [WhatsApp](https://github.com/HermeticOrmus/LibreWhatsApp-Grok-Build)
+
+Doctrine hub: [grok-build-reality-os](https://github.com/HermeticOrmus/grok-build-reality-os) · Jev: [ormus-jev](https://github.com/HermeticOrmus/ormus-jev) · Systems: [ormus.solutions/systems](https://ormus.solutions/systems)
+
 ## Grok Build lane
 
 [grok-build-reality-os](https://github.com/HermeticOrmus/grok-build-reality-os) · [grok-skills](https://github.com/HermeticOrmus/grok-skills) · [grok-build-skills](https://github.com/HermeticOrmus/grok-build-skills) · [claude-exorcist](https://github.com/HermeticOrmus/claude-exorcist)
