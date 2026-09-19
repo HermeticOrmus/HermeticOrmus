@@ -1,40 +1,42 @@
 # Hermetic Ormus
 
-Learning Linux, terminal workflows, and development since October 2025.
-Building tools for personal productivity with Claude Code.
+Sacred technology under the [Gold Hat](https://github.com/HermeticOrmus/gold-hat-manifesto) principle: **empower or extract?** Always empower.
 
-[ormus.solutions](https://ormus.solutions) -- [@dbodartm](https://x.com/dbodartm) -- [LinkedIn](https://linkedin.com/in/hermeticormus)
+[ormus.solutions](https://ormus.solutions) · [@dbodartm](https://x.com/dbodartm) · [LinkedIn](https://linkedin.com/in/hermeticormus)
 
 ---
 
-## Active Projects
+## Start here
 
-| Project | Description |
-|---------|-------------|
-| [FloreSerLife](https://github.com/HermeticOrmus/FloreSerLife) | Garden management and wellness platform |
-| [PandaCompanion](https://github.com/HermeticOrmus/PandaCompanion) | Wellness companion app |
-| [lectio-divina](https://github.com/HermeticOrmus/lectio-divina) | Prayer and contemplative reading tool |
+| Repo | Why |
+|------|-----|
+| [gold-hat-manifesto](https://github.com/HermeticOrmus/gold-hat-manifesto) | The one question every tool should answer |
+| [LibreUIUX-Claude-Code](https://github.com/HermeticOrmus/LibreUIUX-Claude-Code) | Flagship UI/UX system for Claude Code (agents, plugins, skills) |
+| [grok-build-reality-os](https://github.com/HermeticOrmus/grok-build-reality-os) | Grok Build doctrine + starter kit (Liquid Gold) |
+| [invoice-forge](https://github.com/HermeticOrmus/invoice-forge) | Self-hosted invoice editor — FastAPI, no SaaS lock-in |
 
-## Open-Source Tools
+## Libre suite (Claude Code)
+
+Domain plugin packs: [UI/UX](https://github.com/HermeticOrmus/LibreUIUX-Claude-Code) · [Embed](https://github.com/HermeticOrmus/LibreEmbed-Claude-Code) · [GameDev](https://github.com/HermeticOrmus/LibreGameDev-Claude-Code) · [GEO](https://github.com/HermeticOrmus/LibreGEO-Claude-Code) · [SecOps](https://github.com/HermeticOrmus/LibreSecOps-Claude-Code) · [FinTech](https://github.com/HermeticOrmus/LibreFinTech-Claude-Code) · [DevOps](https://github.com/HermeticOrmus/LibreDevOps-Claude-Code) · [MLOps](https://github.com/HermeticOrmus/LibreMLOps-Claude-Code) · [Mobile](https://github.com/HermeticOrmus/LibreMobileDev-Claude-Code)
+
+## Self-hosted tools
 
 | Tool | Description |
 |------|-------------|
-| [ormus-recorder](https://github.com/HermeticOrmus/ormus-recorder) | Voice recorder PWA with local Whisper transcription |
-| [ormus-links](https://github.com/HermeticOrmus/ormus-links) | Link intelligence PWA -- save, extract, and organize web content |
-| [zen-proxy](https://github.com/HermeticOrmus/zen-proxy) | Minimal reverse proxy that strips Authorization headers |
-| [invoice-forge](https://github.com/HermeticOrmus/invoice-forge) | Self-hosted invoice editor for freelancers |
-| [claude-maintain](https://github.com/HermeticOrmus/claude-maintain) | Environment maintenance CLI for Claude Code |
+| [invoice-forge](https://github.com/HermeticOrmus/invoice-forge) | Invoice editor (JSON-backed, Playwright PDF) |
+| [ormus-voice](https://github.com/HermeticOrmus/ormus-voice) | Voice paste for Linux terminals (PTY inject) |
+| [ormus-recorder](https://github.com/HermeticOrmus/ormus-recorder) | Voice recorder PWA + local Whisper |
+| [ormus-explore](https://github.com/HermeticOrmus/ormus-explore) | Token-cheap AST code search |
+| [ormus-links](https://github.com/HermeticOrmus/ormus-links) | Link intelligence PWA |
 
-## Claude Code Ecosystem
+## Grok Build lane
 
-Most of what I build runs on Claude Code. Over time that turned into a system:
+[grok-build-reality-os](https://github.com/HermeticOrmus/grok-build-reality-os) · [grok-skills](https://github.com/HermeticOrmus/grok-skills) · [grok-build-skills](https://github.com/HermeticOrmus/grok-build-skills) · [claude-exorcist](https://github.com/HermeticOrmus/claude-exorcist)
 
-- [hermetic-claude](https://github.com/HermeticOrmus/hermetic-claude) -- 100+ commands, 50+ agents, multi-repo workflows
-- [claude-code-skills](https://github.com/HermeticOrmus/claude-code-skills) -- 13 published skills, reusable across projects
-- [claude-code-guide](https://github.com/HermeticOrmus/claude-code-guide) -- Complete guide to Claude Code as a system-wide assistant
+## Skills mini-repos
 
-Also published domain-specific skill packs: [DevOps](https://github.com/HermeticOrmus/LibreDevOps-Claude-Code), [FinTech](https://github.com/HermeticOrmus/LibreFinTech-Claude-Code), [GameDev](https://github.com/HermeticOrmus/LibreGameDev-Claude-Code), [MLOps](https://github.com/HermeticOrmus/LibreMLOps-Claude-Code), [Mobile](https://github.com/HermeticOrmus/LibreMobileDev-Claude-Code), [Embedded](https://github.com/HermeticOrmus/LibreEmbed-Claude-Code), [UI/UX](https://github.com/HermeticOrmus/LibreUIUX-Claude-Code).
+Drop-in `CLAUDE.md` packs: [commit-standard](https://github.com/HermeticOrmus/commit-standard-skills) · [python-conventions](https://github.com/HermeticOrmus/python-conventions-skills) · [linux-sysadmin](https://github.com/HermeticOrmus/linux-sysadmin-skills) · [osint](https://github.com/HermeticOrmus/osint-skills) · [opus-magnum](https://github.com/HermeticOrmus/opus-magnum) · more under the org
 
 ---
 
-> Technology that empowers, never exploits.
+> Technology that empowers, never extracts. Adopt Gold Hat freely: [gold-hat-manifesto](https://github.com/HermeticOrmus/gold-hat-manifesto).
