@@ -11,13 +11,23 @@ Sacred technology under the [Gold Hat](https://github.com/HermeticOrmus/gold-hat
 | Repo | Why |
 |------|-----|
 | [gold-hat-manifesto](https://github.com/HermeticOrmus/gold-hat-manifesto) | The one question every tool should answer |
-| [LibreUIUX-Claude-Code](https://github.com/HermeticOrmus/LibreUIUX-Claude-Code) | Flagship UI/UX system for Claude Code (agents, plugins, skills) |
+| [LibreUIUX-Claude-Code](https://github.com/HermeticOrmus/LibreUIUX-Claude-Code) | Flagship UI/UX system for Claude Code, v2.0.0: 71 plugins, 93 agents, 74 skills |
+| [claude-code-game-development](https://github.com/HermeticOrmus/claude-code-game-development) | Game dev for Claude Code, v2.0.0: 22 game plugins plus an 81-page manual |
 | [grok-build-reality-os](https://github.com/HermeticOrmus/grok-build-reality-os) | Grok Build doctrine + starter kit (Liquid Gold) |
 | [invoice-forge](https://github.com/HermeticOrmus/invoice-forge) | Self-hosted invoice editor — FastAPI, no SaaS lock-in |
 
 ## Libre suite (Claude Code)
 
-Domain plugin packs: [UI/UX](https://github.com/HermeticOrmus/LibreUIUX-Claude-Code) · [Embed](https://github.com/HermeticOrmus/LibreEmbed-Claude-Code) · [GameDev](https://github.com/HermeticOrmus/LibreGameDev-Claude-Code) · [GEO](https://github.com/HermeticOrmus/LibreGEO-Claude-Code) · [SecOps](https://github.com/HermeticOrmus/LibreSecOps-Claude-Code) · [FinTech](https://github.com/HermeticOrmus/LibreFinTech-Claude-Code) · [DevOps](https://github.com/HermeticOrmus/LibreDevOps-Claude-Code) · [MLOps](https://github.com/HermeticOrmus/LibreMLOps-Claude-Code) · [Mobile](https://github.com/HermeticOrmus/LibreMobileDev-Claude-Code)
+Domain plugin packs: [UI/UX](https://github.com/HermeticOrmus/LibreUIUX-Claude-Code) · [Embed](https://github.com/HermeticOrmus/LibreEmbed-Claude-Code) · [GEO](https://github.com/HermeticOrmus/LibreGEO-Claude-Code) · [SecOps](https://github.com/HermeticOrmus/LibreSecOps-Claude-Code) · [FinTech](https://github.com/HermeticOrmus/LibreFinTech-Claude-Code) · [DevOps](https://github.com/HermeticOrmus/LibreDevOps-Claude-Code) · [MLOps](https://github.com/HermeticOrmus/LibreMLOps-Claude-Code) · [Mobile](https://github.com/HermeticOrmus/LibreMobileDev-Claude-Code) · [Arch](https://github.com/HermeticOrmus/LibreArch-Claude-Code) · [Copy](https://github.com/HermeticOrmus/LibreCopy-Claude-Code) · [SessionFlow](https://github.com/HermeticOrmus/LibreSessionFlow-Claude-Code) · [WhatsApp](https://github.com/HermeticOrmus/LibreWhatsApp-Claude-Code) · [GameDev](https://github.com/HermeticOrmus/claude-code-game-development)
+
+Every pack is a Claude Code plugin marketplace. Install from inside Claude Code:
+
+```
+/plugin marketplace add HermeticOrmus/LibreEmbed-Claude-Code
+/plugin install rtos-patterns@libre-embed
+```
+
+Using one of these? [Open a feedback issue](https://github.com/HermeticOrmus/LibreUIUX-Claude-Code/issues/new?template=feedback.yml) on its repo: what worked, what is missing. Every piece of feedback gets an answer.
 
 ## Self-hosted tools
 
